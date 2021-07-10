@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, i'm nominori 👋
 
-<!--
-**nominori-dev/nominori-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🧠 What do I know or what am I learning
+### 📚 Languages and Frameworks
+- HTML5
+- CSS3
+- C#, WPF
+- JavaScript
+- Node.js, Electron.js
+
+- 🔭 I’m currently working on [electron converter](https://github.com/nominori-dev/temp-converter)
+- 🌱 I’m currently learning JavaScript(Node.js,Electron.js), C#(WPF)
+- 
+## 🔗 Get in touch
+- VK: https://vk.com/nominori
+- E-mail: antonshimchico37@gmail.com
