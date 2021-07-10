@@ -16,7 +16,9 @@
 - C++, QT,UWP
 - Espress.js
 
-- 🔭 I’m currently working on [electron converter](https://github.com/nominori-dev/temp-converter)
+##
+
+- 🔭 I’m currently working on [simple electron based app](https://github.com/nominori-dev/temp-converter)
 - 🌱 I’m currently learning JavaScript(Node.js,Electron.js), C#(WPF)
 
 ## 🔗 Get in touch
