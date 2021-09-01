@@ -7,7 +7,9 @@
 
 - 👨‍💻 My website [https://nominori-dev.github.io/](https://nominori-dev.github.io/)
 
-- 📫 How to reach me **antonshimchico37@gmail.com**
+- 📫 How to reach me:
+-  **antonshimchico37@gmail.com**
+-  **nominori@vk.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
