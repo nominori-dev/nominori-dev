@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm nominori</h1>
 <h3 align="center">.NET Developer from Poland</h3>
 
-- 🔭 I’m currently working on **REST API service**
+- 🔭 I’m currently working on **![RESTful application](https://github.com/nominori-dev/newsense-api)**
 
 - 🌱 I’m currently learning **Spring-Boot, WPF**
 
