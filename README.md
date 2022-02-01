@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://nominori.ru">nominori</a></b>.
-    <br>I'm a Junior Software Engineer from Poland<br>
+    <br>I'm a Java Developer from Poland<br>
 
 </samp>
 
