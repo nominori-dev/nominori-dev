@@ -18,6 +18,4 @@
 
 
 ----
-Credits: [TanZng](https://github.com/TanZng)
-
-Last Edited on: 16/10/2021
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
